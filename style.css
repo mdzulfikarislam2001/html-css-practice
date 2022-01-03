@@ -1,0 +1,67 @@
+#box{
+    height: 400px;
+    width: 1000px;
+    display: flex;
+    background-color: rgba(12, 12, 12, 0.247);
+     border: 7px solid rgba(255, 0, 0, 0.473);
+     border-radius: 20px;
+     text-align: center;
+     margin-left: 10%;
+ }
+ #rafi{
+    
+     border-radius: 30px;
+     height:300px;
+     margin: 20px;
+     width:300px;   
+     background-color: rgb(245, 198, 165);
+     text-align: center;
+   
+ }
+ #rafi img{
+     border-radius: 30px;
+     width: 170px;
+     margin: 0px;
+ }
+ #amit{
+    
+     border-radius: 30px;
+     height: 300px;
+     width: 300px;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     text-align: center;
+     background-color: rgb(245, 198, 165);
+    
+     
+     
+     
+ }
+ #amit img{
+     width: 180px;
+     margin-bottom:885px;
+     border-radius: 30px;
+     height: 120px;
+ 
+ }
+ #partho{
+    
+     border-radius: 30px;
+     height: 300px;
+     width:300px ;
+     margin: 20px;
+     text-align: center;
+     background-color: rgb(245, 198, 165);
+     
+ }
+ #partho img{
+     width: 200px;
+     height: 117px;
+    
+     border-radius: 30px;
+ }
+ .connect{
+     margin-top: 2px;
+     background-color: rgba(0, 0, 255, 0.384);
+     border-radius: 2px;
+ }
