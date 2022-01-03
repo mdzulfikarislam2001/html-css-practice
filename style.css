@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 #bx{
     height: 400px;
     width: 1000px;
